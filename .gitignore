@@ -1,0 +1,8 @@
+/vendor
+/app/config.php
+/public/fonts/*
+/public/img/avatars/*
+/public/img/gallery/*
+*.png
+!.keep
+*.zip
