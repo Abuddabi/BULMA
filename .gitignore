@@ -1,5 +1,5 @@
 /vendor
-/app/config.php
+/app/*config.php
 /public/fonts/*
 /public/img/avatars/*
 /public/img/gallery/*
